@@ -1,2 +1,2 @@
-# dotz.coelhodiniz.github.io
+# http://dotz.coelhodiniz.github.io
 Dotz Coelho Diniz
